@@ -3,7 +3,6 @@ from datetime import date
 
 import boundaries
 
-# Superceded by DGEQ.
 boundaries.register(u'Québec districts',
     domain=u'Québec, QC',
     last_updated=date(2014, 3, 24),

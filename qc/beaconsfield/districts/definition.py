@@ -3,7 +3,6 @@ from datetime import date
 
 import boundaries
 
-# Superceded by DGEQ.
 boundaries.register(u'Beaconsfield districts',
     domain=u'Beaconsfield, QC',
     last_updated=date(2013, 10, 6),

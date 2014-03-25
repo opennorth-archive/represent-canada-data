@@ -3,7 +3,6 @@ from datetime import date
 
 import boundaries
 
-# Superceded by DGEQ.
 boundaries.register(u'Montréal-Est districts',
     domain=u'Montréal-Est, QC',
     last_updated=date(2013, 10, 6),

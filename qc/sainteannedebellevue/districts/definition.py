@@ -3,7 +3,6 @@ from datetime import date
 
 import boundaries
 
-# Superceded by DGEQ.
 boundaries.register(u'Sainte-Anne-de-Bellevue districts',
     domain=u'Sainte-Anne-de-Bellevue, QC',
     last_updated=date(2013, 10, 6),

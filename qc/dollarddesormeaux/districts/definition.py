@@ -3,7 +3,6 @@ from datetime import date
 
 import boundaries
 
-# Superceded by DGEQ.
 boundaries.register(u'Dollard-Des Ormeaux districts',
     domain=u'Dollard-Des Ormeaux, QC',
     last_updated=date(2013, 10, 6),

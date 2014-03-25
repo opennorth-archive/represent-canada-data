@@ -2,7 +2,6 @@ from datetime import date
 
 import boundaries
 
-# Superceded by GeoNB.
 boundaries.register('Moncton wards',
     domain='Moncton, NB',
     last_updated=date(2012, 8, 21),
