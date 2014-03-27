@@ -1,4 +1,4 @@
-# Represent API: Old Data
+# Represent API: Archival Data
 
 [Represent](http://represent.opennorth.ca) is the open database of Canadian elected officials and electoral districts. It provides a [REST API](http://represent.opennorth.ca/api/) to boundary, representative, and postcode resources.
 
